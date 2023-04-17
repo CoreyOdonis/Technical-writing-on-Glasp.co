@@ -1,13 +1,13 @@
 ## TABLE OF CONTENT
 - All you need to know anout Glasp
-- Overview of Glasp
 - Purpose of this article
+- Overview of Glasp
 - How to sign up on Glasp
 - How to navigate through Glasp
 - How to create your own highlight
 - How to share and export highlights to other platforms
 - Conclusion
-- Citations
+- Resources
 
 
 
@@ -27,6 +27,10 @@ and even better, you can share those quoted posts to different external sources 
 Now that i have your attention, stay with me as i onboard you on how Glasp can be of help to you
 
 
+# PURPOSE OF THIS ARTICLE
+This article makes an attempt to enlighten you on what Glasp can do for you, how to access the tool, how to perform specific tasks with it, how to navigate your way around the tool, and how it would make your life easier as a reader or writer.
+
+
 
 ## OVERVIEW OF GLASP
 Glasp is a web extension tool that makes content easily accessible to readers. it serves as a medium through which writers, avid learners, and everyday people can save website content they find appealing easily without having to make use of an external medium which in most cases, could be mistakenly deleted or lost due to unforeseen reasons. It allows you highlight, and save notes in one central location thereby, creating a personalized and centralized library. It also makes it easy for you to highlight on transcript, and add notes on youtube videos easily. easy integration with kindle, quoteshots made easy for sharing on social media platforms, AI powered summary gotten from your highlights and note algorithm, works seamlessly with PDF files while supporting highlight and annotating feature. 
@@ -35,9 +39,6 @@ and it gets better, Glasp lets you easily embed your quotes in blogspots or news
 
 It should however be noted that Glasp is only available on the following web browsers at the time of writing this article: Chrome, Brave, Microsoft edge, and Safari. X
 
-
-## PURPOSE OF THIS ARTICLE
-This article makes an attempt to enlighten you on what Glasp can do for you, how to access the tool, how to perform specific tasks with it, how to navigate your way around the tool, and how it would make your life easier as a reader or writer.
 
 
 
@@ -167,6 +168,6 @@ To create a new highlight and have it stored in a central location like Glasp, Y
 The aim of Glasp is to make life easier for you by providing you a centralised point where you can keep track of all the information or content that appeals to you without having to go through the stress of Copy/Paste post from the internet to your notepad. as a lot of things could go wrong which would make you lose those vital information.
 
 
-## CITATIONS
+## RESOURCES 
 - [How to export web articles](https://medium.com/glasp/tutorial-how-to-export-web-articles--sentences-into-notion-907571bd5050)
 - [How to embed glasp highlights on note-taking applictions and websites](https://medium.com/glasp/how-to-embed-glasp-highlights-on-note-taking-apps-websites-23db1381901e)
