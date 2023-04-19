@@ -108,6 +108,7 @@ Getting access to the Glasp tool is quite easy as i will show you how to create 
 - You can edit your profile by clicking on your profile picture on the home screen, then click "see your highlight". Afterwards, click the three vertical dot placed beside your full name and then edit your details. After you are done editting, click the save button and your changes become effected.
 ![Click the three-vertical dot placed beside your full name](./img/Edit%20details%20(part%201).png "Click the three-vertical dot placed beside your full name")
 
+Edit your details and save changes made
 ![Edit your details and save the changes made](./img/Edit%20details%20(part%202).png "Change your details and then click the "save" button")
 
 - To access FAQs, Click on your user profile > click FAQs. 
@@ -118,8 +119,9 @@ Getting access to the Glasp tool is quite easy as i will show you how to create 
 ![How to view Glasp explainer videos](./img/Glasp%20tutorial.png "[How to view Glasp explainer videos")
 
 - Do you have a suggestion on how to make Glasp better? talk to the founder in 3 steps. Click your profile picture > click "Talk to founders" > schedule a meeting. 
-![Click on "Talk to founders" tab](./img/Talk%20to%20founders%201.png "Click on "Talk to founders" tab")
-![Then, schedule a meeting ith the founder](./img/Talk%20to%20founders.png "Then, schedule a meeting ith the founder")
+![Click on "Talk to founders" tab](./img/Talk%20to%20founders%201.png)
+
+![Then,schedule a meeting ith the founder](./img/Talk%20to%20founders.png)
 
 - Would you like to report a bug you encountered while using Glasp? you can fill in your complaint by following these steps. Click your profile picture > click "Bug report" > fill complaint and submit. 
 ![Report a bug by clicking the "Bug report" under your user profile ](./img/Bug%20report.png "Report a bug by clicking the "Bug report" under your user profile")
