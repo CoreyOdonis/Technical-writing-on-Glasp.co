@@ -64,7 +64,8 @@ Getting access to the Glasp tool is quite easy as i will show you how to create 
 
 ![Click on "Allow" tab]
 
-![The last step is to click on "Add extension" tab](./img/Add%20extension.png "Click on "Add extension" and the Glasp plugin will be installed in your web browser")
+- Now its time to click on add extension. 
+![The last step is to click on "Add extension" tab](./img/Add%20extension.png)
 
 - Head to your extension icon on your browser which is marked with a rectangle, and toggle the "show" icon so as to make your Glasp extension easily accessible to you. 
 ![Make Glasp extension visible on your browser toolbar](./img/Make%20extension%20visible%20on%20your%20browser%20toolbar.png)
