@@ -165,7 +165,7 @@ To create a new highlight and have it stored in a central location like Glasp, Y
 ## HOW TO SHARE AND EXPORT HIGHLIGHTS TO OTHER PLATFORMS
 - Go to your profile section and click "See your highlights" or click on "My highlight" on the navigation menu or select another users' article you wish to share. 
 - Select an article you want to share/export, then click "share icon" on the botttom right of the highlight > select any of the two options provided. 
-![Share another users highlight by clicking on the "share" icon](./img/Share%20highlight.png "Share another users highlight by clicking on the "share" icon")
+![Share another users highlight by clicking on the "share" icon](./img/Share%20highlight.png)
 
 - head down to which platform you want to share the highlight and paste the link you just copied earlier. 
 ![Paste the copied link into your input field of another platform](./img/Share%20to%20slack.png "Paste the copied link into your input field of another platform")
