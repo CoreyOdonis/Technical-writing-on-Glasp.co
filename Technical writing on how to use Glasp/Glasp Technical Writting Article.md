@@ -1,11 +1,11 @@
 # TABLE OF CONTENT
-1. [All you need to know about Glasp](ALL YOU NEED TO KNOW ABOUT GLASP) 
-2. [Purpose of this ARTICLE](PURPOSE OF THIS ARTICLE) 
-3. [Overview of Glasp](OVERVIEW OF GLASP) 
-4. [How to sign up on GLASP](HOW TO SIGN UP ON GLASP) 
-5. [How to navigate through GLASP](HOW TO NAVIGATE THROUGH GLASP) 
-6. [How to create your own HIGHLIGHT](HOW TO CREATE YOUR OWN HIGHLIGHT) 
-7. [How to share and export highlights to other platforms](HOW TO SHARE AJD EXPORT HIGHLIGHTS TO OTHER PLATFORMS) 
+1. [All you need to know about Glasp](#ALL YOU NEED TO KNOW ABOUT GLASP) 
+2. [Purpose of this ARTICLE](#PURPOSE OF THIS ARTICLE) 
+3. [Overview of Glasp](#OVERVIEW OF GLASP) 
+4. [How to sign up on GLASP](#HOW TO SIGN UP ON GLASP) 
+5. [How to navigate through GLASP](#HOW TO NAVIGATE THROUGH GLASP) 
+6. [How to create your own HIGHLIGHT](@#HOW TO CREATE YOUR OWN HIGHLIGHT) 
+7. [How to share and export highlights to other platforms](#HOW TO SHARE AND EXPORT HIGHLIGHTS TO OTHER PLATFORMS) 
 8. [CONCLUSION](#CONCLUSION) 
 9. [RESOURCES](#RESOURCES) 
  
@@ -28,7 +28,7 @@ and even better, you can share those quoted posts to different external sources 
 Now that i have your attention, stay with me as i onboard you on how [Glasp](https://glasp.co) can be of help to you. 
 
 
-# PURPOSE OF THIS ARTICLE
+## PURPOSE OF THIS ARTICLE
 This article makes an attempt to enlighten you on what [Glasp](https://glasp.co) can do for you, how to access the tool, how to perform specific tasks with it, how to navigate your way around the tool, and how it would make your life easier as a reader or writer.
 
 
