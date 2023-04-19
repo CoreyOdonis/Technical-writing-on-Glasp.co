@@ -61,8 +61,8 @@ Getting access to the Glasp tool is quite easy as i will show you how to create 
 - Now that you have an account on Glasp, you will be asked to install Glasp browser extension. Click on the "Get" tab > "Allow" tab > then "Add extension". 
 ![You will be prompted to add Glasp extension to your browser toolbar](./img/Add%20extension%20to%20your%20browser.png)
 
-
-![Click on "Allow" tab]
+-Then click on *Allow eztension* tab
+![Click on "Allow" tab](./img/Allow%20extension.png)
 
 - Now its time to click on add extension. 
 ![The last step is to click on "Add extension" tab](./img/Add%20extension.png)
