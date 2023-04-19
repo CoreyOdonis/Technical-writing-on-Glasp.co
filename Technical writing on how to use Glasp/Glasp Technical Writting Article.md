@@ -55,13 +55,13 @@ Getting access to the Glasp tool is quite easy as i will show you how to create 
 ![Click "continue with Google" button](./img/Login%20with%20your%20Google%20account.png "Glasp allows you create a new account with your existing Gmail acccount")
 
 - Select your Gmail account if it's already logged in on the browser, otherwise; you will have to login to your Gmail account to proceed by clicking the tab an arrow is pointing towards. 
-![Select your Gmail account/login a new Gmail account to proceed] (./img/overlay%20popup%20when%20you%20try%20login%20in.png "You will have to choose the Gmail account you wish to sign up with")
+![Select your Gmail account/login a new Gmail account to proceed](./img/overlay%20popup%20when%20you%20try%20login%20in.png)
 
 - Now that you have an account on Glasp, you will be asked to install Glasp browser extension. Click on the "Get" tab > "Allow" tab > then "Add extension". 
 ![You will be prompted to add Glasp extension to your browser toolbar](./img/Add%20extension%20to%20your%20browser.png "To add Glasp extension, click on the "Get" button")
 
 
-![Click on "Allow" tab](./img/Allow%20extension.png "Click on "Allow" tab")
+![Click on "Allow" tab]
 
 ![The last step is to click on "Add extension" tab](./img/Add%20extension.png "Click on "Add extension" and the Glasp plugin will be installed in your web browser")
 
@@ -69,17 +69,17 @@ Getting access to the Glasp tool is quite easy as i will show you how to create 
 ![Make Glasp extension visible on your browser toolbar](./img/Make%20extension%20visible%20on%20your%20browser%20toolbar.png)
 ![Glasp extension is now visible](./img/Glasp%20extension%20is%20now%20visible.png "Your Glasp plugin is now easily accessible on your browser")
 
-- Once you are done adding Glasp extension to your browser toolbar, this home screen is displayed with the right pane showing you that the extension is active. you can choose to click the Home tab to access the main screen. 
+- Once you are done adding [Glasp](https://glaspmco) extension to your browser toolbar, this home screen is displayed with the right pane showing you that the extension is active. you can choose to click the Home tab to access the main screen. 
 ![Home screen displaying the Glasp extension sidebar panel](./img/Glasp%20home%20after%20login%20in.png "The screen lets you know that the Glasp extesnion is active")
 
 
 
 ## HOW TO NAVIGATE THROUGH GLASP
-Once you are able to access your Glasp account after login in, you are prompted to choose up to 10 topics of interest of your choice before you can proceed.
+Once you are able to access your [Glasp](https://glasp.co) account after login in, you are prompted to choose up to 10 topics of interest of your choice before you can proceed.
 ![You are promted to select at most 10 favourite topics of interest so your Glasp homepage would feature your interests](./img/Choose%2010%20favorite%20topics%20of%20your%20choice.png "You are promted to select at most 10 favourite topics of interest so your Glasp homepage would feature your interests")
 ![The follow-up screen after selecting 10 topics of your choice](./img/After%20selecting%20your%2010%20favourite%20topics%2C%20hit%20save.png "Click "save" button after making your selection")
 
-The Glasp algorithm curate articles to be displayed on your timeline. Afterwards, you cam toggle between these three options "Following", "Topics", and "Popular" for articles.
+The [Glasp](https://glasp.co) algorithm curate articles to be displayed on your timeline. Afterwards, you cam toggle between these three options "Following", "Topics", and "Popular" for articles.
 ![The Home screen after you have successfully logged into your account](./img/Home%20screen%20once%20a%20user%20is%20onboarded.png "You can see the parts highlighted once your homepage has laoded successfully")
 
 - You can view an highlight by clicking on any of the articles displayed and then keep an eye on the changes on the right hand side of your screen. 
@@ -109,7 +109,7 @@ The Glasp algorithm curate articles to be displayed on your timeline. Afterwards
 ![Click on your user profile and select FAQ](./img/FAQ%20(Part%201).png "Click the login or sign up button")
 ![You can then proceed by going through the Frequently Asked Questions List](./img/FAQ%20(Part%202).png "You can then proceed by going through the Frequently Asked Questions List")
 
-- To access Glasp tutorials, Click your profile picture > click "Tutorial Video" and then it takes you to a YouTube. page
+- To access [Glasp](https://glasp.co) tutorials, Click your profile picture > click "Tutorial Video" and then it takes you to a YouTube. page
 ![How to view Glasp explainer videos](./img/Glasp%20tutorial.png "[How to view Glasp explainer videos")
 
 - Do you have a suggestion on how to make Glasp better? talk to the founder in 3 steps. Click your profile picture > click "Talk to founders" > schedule a meeting. 
@@ -128,7 +128,7 @@ The Glasp algorithm curate articles to be displayed on your timeline. Afterwards
 ![Click your user profile and then, navigate to your settings tab](./img/Settings%20tab.png "Click your user profile and then, navigate to your settings tab")
 ![You can then make your Glasp settings adjustment](./img/Settings.png "You can then make your Glasp settings adjustment")
 
-- To join Glasp slack community, Click on your profile picture > Click "Glasp community". 
+- To join [Glasp](https://glasp.co) slack community, Click on your profile picture > Click "Glasp community". 
 ![How to join Glasp slack community](./img/Glasp%20community.png "How to join Glasp slack community")
 
 - To export your highlight via Kindle, Click on your profile picture > click "Kindle Export". 
@@ -167,7 +167,7 @@ To create a new highlight and have it stored in a central location like Glasp, Y
 ![Your highlight has now been shared successfully](./img/Share%20to%20slack%20successful.png "Your highlight has now been shared successfully")
 
 ## CONCLUSION
-The aim of Glasp is to make life easier for you by providing you a centralised point where you can keep track of all the information or content that appeals to you without having to go through the stress of Copy/Paste post from the internet to your notepad. as a lot of things could go wrong which would make you lose those vital information.
+The aim of [Glasp](https://glasp.co) is to make life easier for you by providing you a centralised point where you can keep track of all the information or content that appeals to you without having to go through the stress of Copy/Paste post from the internet to your notepad. as a lot of things could go wrong which would make you lose those vital information.
 
 
 ## RESOURCES 
