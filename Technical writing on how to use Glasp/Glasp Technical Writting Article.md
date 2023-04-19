@@ -58,10 +58,10 @@ Getting access to the Glasp tool is quite easy as i will show you how to create 
 - Select your Gmail account if it's already logged in on the browser, otherwise; you will have to login to your Gmail account to proceed by clicking the tab an arrow is pointing towards. 
 ![Select your Gmail account/login a new Gmail account to proceed](./img/overlay%20popup%20when%20you%20try%20login%20in.png)
 
-- Now that you have an account on Glasp, you will be asked to install Glasp browser extension. Click on the "Get" tab > "Allow" tab > then "Add extension". 
+- Now that you have an account on Glasp, you will be asked to install Glasp browser extension. Click on the "Get" tab > "Allow" tab > then click *Add extension*. 
 ![You will be prompted to add Glasp extension to your browser toolbar](./img/Add%20extension%20to%20your%20browser.png)
 
--Then click on *Allow eztension* tab
+- Then click on *Allow eztension* tab
 ![Click on "Allow" tab](./img/Allow%20extension.png)
 
 - Now its time to click on add extension. 
