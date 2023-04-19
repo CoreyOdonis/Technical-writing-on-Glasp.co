@@ -107,6 +107,7 @@ Getting access to the Glasp tool is quite easy as i will show you how to create 
 
 - You can edit your profile by clicking on your profile picture on the home screen, then click "see your highlight". Afterwards, click the three vertical dot placed beside your full name and then edit your details. After you are done editting, click the save button and your changes become effected.
 ![Click the three-vertical dot placed beside your full name](./img/Edit%20details%20(part%201).png "Click the three-vertical dot placed beside your full name")
+
 ![Edit your details and save the changes made](./img/Edit%20details%20(part%202).png "Change your details and then click the "save" button")
 
 - To access FAQs, Click on your user profile > click FAQs. 
