@@ -1,13 +1,14 @@
 ## TABLE OF CONTENT
-- [All you need to know about Glasp](ALL YOU NEED TO KNOW ABOUT GLASP) 
-- [Purpose of this ARTICLE](PURPOSE OF THIS ARTICLE) 
-- [Overview of Glasp](OVERVIEW OF GLASP) 
-- [How to sign up on GLASP](HOW TO SIGN UP ON GLASP) 
-- [How to navigate through GLASP](HOW TO NAVIGATE THROUGH GLASP) 
-- [How to create your own HIGHLIGHT](HOW TO CREATE YOUR OWN HIGHLIGHT) 
-- [How to share and export highlights to other PLATFORMS](HOW TO SHARE AJD EXPORT HIGHLIGHTS TO OTHER PLATFORMS) 
-- [CONCLUSION](CONCLUSION) 
-- [RESOURCES](RESOURCES) 
+1. [All you need to know about Glasp](ALL YOU NEED TO KNOW ABOUT GLASP) 
+2. [Purpose of this ARTICLE](PURPOSE OF THIS ARTICLE) 
+3. [Overview of Glasp](OVERVIEW OF GLASP) 
+4. [How to sign up on GLASP](HOW TO SIGN UP ON GLASP) 
+5. [How to navigate through GLASP](HOW TO NAVIGATE THROUGH GLASP) 
+6. [How to create your own HIGHLIGHT](HOW TO CREATE YOUR OWN HIGHLIGHT) 
+7. [How to share and export highlights to other platforms](HOW TO SHARE AJD EXPORT HIGHLIGHTS TO OTHER PLATFORMS) 
+8. [CONCLUSION](CONCLUSION) 
+9. [RESOURCES](RESOURCES) 
+ 
 
 
 
