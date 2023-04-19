@@ -36,7 +36,7 @@ This article makes an attempt to enlighten you on what [Glasp](https://glasp.co)
 ## OVERVIEW OF GLASP
 [Glasp](https://glasp.co) is a web extension tool that makes content easily accessible to readers. it serves as a medium through which writers, avid learners, and everyday people can save website content they find appealing easily without having to make use of an external medium which in most cases, could be mistakenly deleted or lost due to unforeseen reasons. It allows you highlight, and save notes in one central location thereby, creating a personalized and centralized library. It also makes it easy for you to highlight on transcript, and add notes on youtube videos easily. easy integration with kindle, quoteshots made easy for sharing on social media platforms, AI powered summary gotten from your highlights and note algorithm, works seamlessly with PDF files while supporting highlight and annotating feature. 
 
-and it gets better, [Glasp](https://glasp.co) lets you easily embed your quotes in blogspots or newsletters, and it allows you download your saved highlights in different formats which could be in *.txt , .md or .csv* file format.
+and it gets better, [Glasp](https://glasp.co) lets you easily embed your quotes in blogspots or newsletters, and it allows you download your saved highlights in different formats which could be in `.txt , .md or .csv` file format.
 
 It should however be noted that [Glasp](https://glasp.co) is only available on the following web browsers at the time of writing this article: Chrome, Brave, Microsoft edge, and Safari. 
 
@@ -52,19 +52,19 @@ Getting access to the Glasp tool is quite easy as i will show you how to create 
 - locate and click the Log-in OR Sign up(beta) tab at the top right hand corner. 
 ![Click the login or sign up button](./img/Login.png "Home screen indicating the login and signup button")
 
-- An overlay opens prompting you to proceed with your login by clicking the _continue with Google_ button. 
+- An overlay opens prompting you to proceed with your login by clicking the `continue with Google` button. 
 ![Click "continue with Google" button](./img/Login%20with%20your%20Google%20account.png "Glasp allows you create a new account with your existing Gmail acccount")
 
 - Select your Gmail account if it's already logged in on the browser, otherwise; you will have to login to your Gmail account to proceed by clicking the tab an arrow is pointing towards. 
 ![Select your Gmail account/login a new Gmail account to proceed](./img/overlay%20popup%20when%20you%20try%20login%20in.png)
 
-- Now that you have an account on Glasp, you will be asked to install Glasp browser extension. Click on the "Get" tab > "Allow" tab > then click *Add extension*. 
+- Now that you have an account on Glasp, you will be asked to install Glasp browser extension. Click on the "Get" tab > `Allow` tab > then click `Add extension`. 
 ![You will be prompted to add Glasp extension to your browser toolbar](./img/Add%20extension%20to%20your%20browser.png)
 
-- Then click on *Allow extension* tab
+- Then click on `Allow extension` tab
 ![Click on "Allow" tab](./img/Allow%20extension.png)
 
-- Now its time to click on *add extension*. 
+- Now its time to click on `add extension`. 
 ![The last step is to click on "Add extension" tab](./img/Add%20extension.png)
 
 - Head to your extension icon on your browser which is marked with a rectangle, and toggle the "show" icon so as to make your Glasp extension easily accessible to you. 
@@ -80,16 +80,16 @@ Getting access to the Glasp tool is quite easy as i will show you how to create 
 - Once you are able to access your [Glasp](https://glasp.co) account after login in, you are prompted to choose up to 10 topics of interest of your choice before you can proceed.
 ![You are promted to select at most 10 favourite topics of interest so your Glasp homepage would feature your interests](./img/Choose%2010%20favorite%20topics%20of%20your%20choice.png "You are promted to select at most 10 favourite topics of interest so your Glasp homepage would feature your interests")
 
-- Click *save* after selecting 10 topics of your choice. 
+- Click `save` after selecting 10 topics of your choice. 
 ![The follow-up screen after selecting 10 topics of your choice](./img/After%20selecting%20your%2010%20favourite%20topics%2C%20hit%20save.png)
 
-- The [Glasp](https://glasp.co) algorithm curate articles to be displayed on your timeline. Afterwards, you cam toggle between these three options "Following", "Topics", and "Popular" for articles.
+- The [Glasp](https://glasp.co) algorithm curate articles to be displayed on your timeline. Afterwards, you cam toggle between these three options `Following`, `Topics`, and `Popular` for articles.
 ![The Home screen after you have successfully logged into your account](./img/Home%20screen%20once%20a%20user%20is%20onboarded.png)
 
 - You can view an highlight by clicking on any of the articles displayed and then keep an eye on the changes on the right hand side of your screen. 
 ![How to view another user's highlight](./img/Highlights%20in%20action.png "How to view another user's highlight")
 
-- You can also save an highlight by clicking on the *Add to saved item* icon just at the top right corner of the content border. 
+- You can also save an highlight by clicking on the `Add to saved item` icon just at the top right corner of the content border. 
 ![Saving an highlight in action](./img/Save%20highlight.png "How to save an highlight on Glasp")
 
 - When you click on your user profile, you are shown different options which includes Ask your Digital Me, Talk to founders, Settings, joining a slack community, Kindle Export, Find Like minds, Browser Extension, Tutorial Video, FAQs, Bug Report, and Sign out.
@@ -101,11 +101,11 @@ Getting access to the Glasp tool is quite easy as i will show you how to create 
 - You can search for highlights by entering your search text in the input field provided. it also suggests pages. associated with search keyword with you.
 ![Glasp search field in action](./img/Input%20field%20in%20action.png "How to search for a topic on Glasp")
 
-- You can view your dashboard by clicking "See your highlight" under your name or click "my highlights" on the navigation tab. 
+- You can view your dashboard by clicking `See your highlight` under your name or click `my highlights` on the navigation tab. 
 ![How to check your saved highlights](./img/Ways%20to%20see%20your%20highlight.png "Click the login or sign up button")
 ![The follow-up screen after the highlight tab has been clicked](./img/Your%20highlights.png "The follow-up screen after the highlight tab has been clicked")
 
-- You can edit your profile by clicking on your profile picture on the home screen, then click "see your highlight". Afterwards, click the three vertical dot placed beside your full name and then edit your details. After you are done editting, click the save button and your changes become effected.
+- You can edit your profile by clicking on your profile picture on the home screen, then click `see your highlight`. Afterwards, click the `three vertical dot` placed beside your full name and then edit your details. After you are done editting, click the save button and your changes become effected.
 ![Click the three-vertical dot placed beside your full name](./img/Edit%20details%20(part%201).png "Click the three-vertical dot placed beside your full name")
 
 Edit your details and save changes made
@@ -118,30 +118,30 @@ Edit your details and save changes made
 - To access [Glasp](https://glasp.co) tutorials, Click your profile picture > click "Tutorial Video" and then it takes you to a YouTube. page
 ![How to view Glasp explainer videos](./img/Glasp%20tutorial.png "[How to view Glasp explainer videos")
 
-- Do you have a suggestion on how to make Glasp better? talk to the founder in 3 steps. Click your profile picture > click "Talk to founders" > schedule a meeting. 
+- Do you have a suggestion on how to make Glasp better? talk to the founder in 3 steps. Click your profile picture > click `Talk to founders` > schedule a meeting. 
 ![Click on "Talk to founders" tab](./img/Talk%20to%20founders%201.png)
 
 ![Then,schedule a meeting ith the founder](./img/Talk%20to%20founders.png)
 
-- Would you like to report a bug you encountered while using Glasp? you can fill in your complaint by following these steps. Click your profile picture > click *Bug report* > fill complaint and submit. 
+- Would you like to report a bug you encountered while using Glasp? you can fill in your complaint by following these steps. Click your profile picture > click `Bug report` > fill complaint and submit. 
 ![Report a bug by clicking the "Bug report" under your user profile ](./img/Bug%20report.png)
 ![Then,fill the bug report form afterwars and submit](./img/Bug%20report%201.png)
 
-- Do you want to locate users who have a common interest as you? Click your profile picture > click " Find Like minds" > click "Find content from community" before making use of the search feature and options provided. 
+- Do you want to locate users who have a common interest as you? Click your profile picture > click " Find Like minds" > click `Find content from community` before making use of the search feature and options provided. 
 ![Find users of similiar interest as yours](./img/Find%20like%20minds%202.png "Find users of similiar interest as yours")
 ![You can then search with your preferences](./img/Find%20like%20minds.png "You can then search with your preferences")
 
-- To access your settings, Click your profile picture > click "setings" > you can then toggle between "Digital Model", "Email Preference", "Integration", "Domain Exclude List", and "Account Management". 
+- To access your settings, Click your profile picture > click `setings` > you can then toggle between `Digital Model`, `Email Preference`, `Integration`, `Domain Exclude List`, and `Account Management`. 
 ![Click your user profile and then, navigate to your settings tab](./img/Settings%20tab.png "Click your user profile and then, navigate to your settings tab")
 ![You can then make your Glasp settings adjustment](./img/Settings.png "You can then make your Glasp settings adjustment")
 
-- To join [Glasp](https://glasp.co) slack community, Click on your profile picture > Click "Glasp community". 
+- To join [Glasp](https://glasp.co) slack community, Click on your profile picture > Click `Glasp community`. 
 ![How to join Glasp slack community](./img/Glasp%20community.png "How to join Glasp slack community")
 
-- To export your highlight via Kindle, Click on your profile picture > click "Kindle Export". 
+- To export your highlight via Kindle, Click on your profile picture > click `Kindle Export`. 
 ![How to access Kindle export on Glasp](./img/Kindle%20export.png "How to access Kindle export on Glasp")
 
-- To sign out from Glasp, Click on your ptofile picture > Click "Sign out". 
+- To sign out from Glasp, Click on your ptofile picture > Click `Sign out`. 
 ![How to sign-out from your Glasp account](./img/Sign%20out.png "How to sign-out from your Glasp account")
 
 
@@ -164,7 +164,7 @@ To create a new highlight and have it stored in a central location like Glasp, Y
 
 ## HOW TO SHARE AND EXPORT HIGHLIGHTS TO OTHER PLATFORMS
 - Go to your profile section and click "See your highlights" or click on "My highlight" on the navigation menu or select another users' article you wish to share. 
-- Select an article you want to share/export, then click "share icon" on the botttom right of the highlight > select any of the two options provided. 
+- Select an article you want to share/export, then click the `share icon` on the botttom right of the highlight > select any of the two options provided. 
 ![Share another users highlight by clicking on the "share" icon](./img/Share%20highlight.png)
 
 - head down to which platform you want to share the highlight and paste the link you just copied earlier. 
