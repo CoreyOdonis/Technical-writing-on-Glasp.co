@@ -24,7 +24,7 @@ what if i told you, there is a tool that can help you collate all of these posts
 
 and even better, you can share those quoted posts to different external sources with ease.
 
-Now that i have your attention, stay with me as i onboard you on how (Glasp)[https://glasp.co] can be of help to you. 
+Now that i have your attention, stay with me as i onboard you on how [Glasp](https://glasp.co) can be of help to you. 
 
 
 # PURPOSE OF THIS ARTICLE
