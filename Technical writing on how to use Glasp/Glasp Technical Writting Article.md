@@ -28,22 +28,22 @@ Now that i have your attention, stay with me as i onboard you on how [Glasp](htt
 
 
 # PURPOSE OF THIS ARTICLE
-This article makes an attempt to enlighten you on what Glasp can do for you, how to access the tool, how to perform specific tasks with it, how to navigate your way around the tool, and how it would make your life easier as a reader or writer.
+This article makes an attempt to enlighten you on what [Glasp](https://glasp.co) can do for you, how to access the tool, how to perform specific tasks with it, how to navigate your way around the tool, and how it would make your life easier as a reader or writer.
 
 
 
 ## OVERVIEW OF GLASP
-Glasp is a web extension tool that makes content easily accessible to readers. it serves as a medium through which writers, avid learners, and everyday people can save website content they find appealing easily without having to make use of an external medium which in most cases, could be mistakenly deleted or lost due to unforeseen reasons. It allows you highlight, and save notes in one central location thereby, creating a personalized and centralized library. It also makes it easy for you to highlight on transcript, and add notes on youtube videos easily. easy integration with kindle, quoteshots made easy for sharing on social media platforms, AI powered summary gotten from your highlights and note algorithm, works seamlessly with PDF files while supporting highlight and annotating feature. 
+[Glasp](https://glasp.co) is a web extension tool that makes content easily accessible to readers. it serves as a medium through which writers, avid learners, and everyday people can save website content they find appealing easily without having to make use of an external medium which in most cases, could be mistakenly deleted or lost due to unforeseen reasons. It allows you highlight, and save notes in one central location thereby, creating a personalized and centralized library. It also makes it easy for you to highlight on transcript, and add notes on youtube videos easily. easy integration with kindle, quoteshots made easy for sharing on social media platforms, AI powered summary gotten from your highlights and note algorithm, works seamlessly with PDF files while supporting highlight and annotating feature. 
 
-and it gets better, Glasp lets you easily embed your quotes in blogspots or newsletters, and it allows you download your saved highlights in different formats which could be in *.txt , .md or .csv* file format.
+and it gets better, [Glasp](https://glasp.co) lets you easily embed your quotes in blogspots or newsletters, and it allows you download your saved highlights in different formats which could be in *.txt , .md or .csv* file format.
 
-It should however be noted that Glasp is only available on the following web browsers at the time of writing this article: Chrome, Brave, Microsoft edge, and Safari. 
+It should however be noted that [Glasp](https://glasp.co) is only available on the following web browsers at the time of writing this article: Chrome, Brave, Microsoft edge, and Safari. 
 
 
 
 
 ## HOW TO CREATE A NEW ACCOUNT ON GLASP
-Getting access to the Glasp tool is quite easy as i will show you how to create your own account in four easy steps. Glasp integrates their platform with a solitary mailing address which is Gmail. so all you need to do to get started is to create your personal Gmail account and you are half way into making use of the highlight toolS. Then follow the steps below afterwards:
+Getting access to the Glasp tool is quite easy as i will show you how to create your own account in four easy steps.[Glasp](https://glasp.co)  integrates their platform with a solitary mailing address which is Gmail. so all you need to do to get started is to create your personal Gmail account and you are half way into making use of the highlight toolS. Then follow the steps below afterwards:
 
 - input Glasp.co in your desktop browser. 
 ![Here is the first screen you encounter when you launch the website url](./img/Home%20screen.png "Homepage") 
