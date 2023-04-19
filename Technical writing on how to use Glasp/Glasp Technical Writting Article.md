@@ -61,10 +61,10 @@ Getting access to the Glasp tool is quite easy as i will show you how to create 
 - Now that you have an account on Glasp, you will be asked to install Glasp browser extension. Click on the "Get" tab > "Allow" tab > then click *Add extension*. 
 ![You will be prompted to add Glasp extension to your browser toolbar](./img/Add%20extension%20to%20your%20browser.png)
 
-- Then click on *Allow eztension* tab
+- Then click on *Allow extension* tab
 ![Click on "Allow" tab](./img/Allow%20extension.png)
 
-- Now its time to click on add extension. 
+- Now its time to click on *add extension*. 
 ![The last step is to click on "Add extension" tab](./img/Add%20extension.png)
 
 - Head to your extension icon on your browser which is marked with a rectangle, and toggle the "show" icon so as to make your Glasp extension easily accessible to you. 
@@ -79,7 +79,9 @@ Getting access to the Glasp tool is quite easy as i will show you how to create 
 ## HOW TO NAVIGATE THROUGH GLASP
 Once you are able to access your [Glasp](https://glasp.co) account after login in, you are prompted to choose up to 10 topics of interest of your choice before you can proceed.
 ![You are promted to select at most 10 favourite topics of interest so your Glasp homepage would feature your interests](./img/Choose%2010%20favorite%20topics%20of%20your%20choice.png "You are promted to select at most 10 favourite topics of interest so your Glasp homepage would feature your interests")
-![The follow-up screen after selecting 10 topics of your choice](./img/After%20selecting%20your%2010%20favourite%20topics%2C%20hit%20save.png "Click "save" button after making your selection")
+
+Click *save* after selecting 10 topics of your choice. 
+![The follow-up screen after selecting 10 topics of your choice](./img/After%20selecting%20your%2010%20favourite%20topics%2C%20hit%20save.png)
 
 The [Glasp](https://glasp.co) algorithm curate articles to be displayed on your timeline. Afterwards, you cam toggle between these three options "Following", "Topics", and "Popular" for articles.
 ![The Home screen after you have successfully logged into your account](./img/Home%20screen%20once%20a%20user%20is%20onboarded.png "You can see the parts highlighted once your homepage has laoded successfully")
