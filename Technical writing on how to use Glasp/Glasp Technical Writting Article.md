@@ -77,14 +77,14 @@ Getting access to the Glasp tool is quite easy as i will show you how to create 
 
 
 ## HOW TO NAVIGATE THROUGH GLASP
-Once you are able to access your [Glasp](https://glasp.co) account after login in, you are prompted to choose up to 10 topics of interest of your choice before you can proceed.
+- Once you are able to access your [Glasp](https://glasp.co) account after login in, you are prompted to choose up to 10 topics of interest of your choice before you can proceed.
 ![You are promted to select at most 10 favourite topics of interest so your Glasp homepage would feature your interests](./img/Choose%2010%20favorite%20topics%20of%20your%20choice.png "You are promted to select at most 10 favourite topics of interest so your Glasp homepage would feature your interests")
 
-Click *save* after selecting 10 topics of your choice. 
+- Click *save* after selecting 10 topics of your choice. 
 ![The follow-up screen after selecting 10 topics of your choice](./img/After%20selecting%20your%2010%20favourite%20topics%2C%20hit%20save.png)
 
-The [Glasp](https://glasp.co) algorithm curate articles to be displayed on your timeline. Afterwards, you cam toggle between these three options "Following", "Topics", and "Popular" for articles.
-![The Home screen after you have successfully logged into your account](./img/Home%20screen%20once%20a%20user%20is%20onboarded.png "You can see the parts highlighted once your homepage has laoded successfully")
+- The [Glasp](https://glasp.co) algorithm curate articles to be displayed on your timeline. Afterwards, you cam toggle between these three options "Following", "Topics", and "Popular" for articles.
+![The Home screen after you have successfully logged into your account](./img/Home%20screen%20once%20a%20user%20is%20onboarded.png)
 
 - You can view an highlight by clicking on any of the articles displayed and then keep an eye on the changes on the right hand side of your screen. 
 ![How to view another user's highlight](./img/Highlights%20in%20action.png "How to view another user's highlight")
