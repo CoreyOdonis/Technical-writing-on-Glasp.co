@@ -1,4 +1,4 @@
-## TABLE OF CONTENT
+# TABLE OF CONTENT
 1. [All you need to know about Glasp](ALL YOU NEED TO KNOW ABOUT GLASP) 
 2. [Purpose of this ARTICLE](PURPOSE OF THIS ARTICLE) 
 3. [Overview of Glasp](OVERVIEW OF GLASP) 
