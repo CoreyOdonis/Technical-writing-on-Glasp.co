@@ -109,7 +109,7 @@ Getting access to the Glasp tool is quite easy as i will show you how to create 
 ![Click the three-vertical dot placed beside your full name](./img/Edit%20details%20(part%201).png "Click the three-vertical dot placed beside your full name")
 
 Edit your details and save changes made
-![Edit your details and save the changes made](./img/Edit%20details%20(part%202).png "Change your details and then click the "save" button")
+![Edit your details and save the changes made](./img/Edit%20details%20(part%202).png)
 
 - To access FAQs, Click on your user profile > click FAQs. 
 ![Click on your user profile and select FAQ](./img/FAQ%20(Part%201).png "Click the login or sign up button")
@@ -123,9 +123,9 @@ Edit your details and save changes made
 
 ![Then,schedule a meeting ith the founder](./img/Talk%20to%20founders.png)
 
-- Would you like to report a bug you encountered while using Glasp? you can fill in your complaint by following these steps. Click your profile picture > click "Bug report" > fill complaint and submit. 
-![Report a bug by clicking the "Bug report" under your user profile ](./img/Bug%20report.png "Report a bug by clicking the "Bug report" under your user profile")
-![Then, fill the bug report form afterwars and submit](./img/Bug%20report%201.png "Then, fill the bug report form afterwars and submit")
+- Would you like to report a bug you encountered while using Glasp? you can fill in your complaint by following these steps. Click your profile picture > click *Bug report* > fill complaint and submit. 
+![Report a bug by clicking the "Bug report" under your user profile ](./img/Bug%20report.png)
+![Then,fill the bug report form afterwars and submit](./img/Bug%20report%201.png)
 
 - Do you want to locate users who have a common interest as you? Click your profile picture > click " Find Like minds" > click "Find content from community" before making use of the search feature and options provided. 
 ![Find users of similiar interest as yours](./img/Find%20like%20minds%202.png "Find users of similiar interest as yours")
