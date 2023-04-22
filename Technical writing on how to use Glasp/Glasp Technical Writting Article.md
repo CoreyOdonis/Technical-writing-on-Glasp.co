@@ -1,3 +1,5 @@
+# A GUIDE ON HOW TO USE GLASP
+
 # TABLE OF CONTENT
 1. [All you need to know about Glasp](#ALL-YOU-NEED-TO-KNOW-ABOUT-GLASP)
 2. [Purpose of this article](#PURPOSE-OF-THIS-ARTICLE)
