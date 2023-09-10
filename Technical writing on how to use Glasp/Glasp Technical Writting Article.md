@@ -55,7 +55,7 @@ Getting access to the Glasp tool is quite easy as i will show you how to create 
 ![Click the login or sign up button](./img/Login.png "Home screen indicating the login and signup button")
 
 - An overlay opens prompting you to proceed with your login by clicking the `continue with Google` button. 
-![Click "continue with Google" button](./img/Login%20with%20your%20Google%20account.png "Glasp allows you create a new account with your existing Gmail acccount")
+`![Click "continue with Google" button](./img/Login%20with%20your%20Google%20account.png "Glasp allows you create a new account with your existing Gmail acccount")`
 
 - Select your Gmail account if it's already logged in on the browser, otherwise; you will have to login to your Gmail account to proceed by clicking the tab an arrow is pointing towards. 
 ![Select your Gmail account/login a new Gmail account to proceed](./img/overlay%20popup%20when%20you%20try%20login%20in.png)
